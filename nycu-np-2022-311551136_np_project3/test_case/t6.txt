@@ -1,0 +1,5 @@
+removetag0 test.html | number |1
+removetag0
+number test.html |1
+removetag0
+exit
